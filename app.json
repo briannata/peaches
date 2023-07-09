@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "peaches",
+    "slug": "peaches",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "peaches"
+}
